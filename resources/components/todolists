@@ -1,0 +1,41 @@
+
+class - 2
+==========
+
+1. params and query in url  ===> done
+
+2. asyncData  ===>  done
+
+3. Created  ===>  done
+
+4. Components + links =>  done
+
+5. External CSS  ==> done 
+
+6. External plugins  ==> 
+
+
+
+
+class - 3
+=========
+
+1. vue mixin in nuxt 
+
+2. axios api 
+
+
+
+class - 4 
+=========
+
+1. use axios in asyncData
+
+2. routes 
+
+3. controller 
+
+4. model 
+
+
+
